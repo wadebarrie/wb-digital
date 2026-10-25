@@ -21,9 +21,9 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://wbdigital.dev'
 baseurl: ''
-title: 'My website'
+title: 'WB Digital'
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
@@ -45,6 +45,8 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+- title: Store Inspector privacy
+  url: /shopify-store-inspector/privacy/
 
 # Collections
 collections:
